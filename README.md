@@ -1,10 +1,10 @@
 # c-karshe.github.io
-Poké-Job Recommendation
+The P.I.K.A.C.H.U. Pokéjob Recommender System!
 
-For this project, let’s transport ourselves to the wonderful world of Pokémon! While we all know that Pokémon can be used for battles, there are so many other ways they can be helpful in daily life. From construction to baking to companionship, the 1008 Pokémon can help with so many tasks and problems our world faces! But with so many different options, how can you know exactly which Pokémon is right for the job? That’s where the Poké-Job Recommendation system can come in!
+For this project, let’s transport ourselves to the wonderful world of Pokémon! While we all know that Pokémon can be used for battles, there are so many other ways they can be helpful in daily life. From construction to baking to companionship, the 1008 Pokémon can help with so many tasks and problems our world faces! But with so many different options, how can you know exactly which Pokémon is right for the job? That’s where the Pokémon Interface for Knowledgable Asistance with Chosen Helpful tasks or Undertakings (P.I.K.A.C.H.U.) system can come in!
 
 
-Using data from the Pokédex (thanks GameFreak for the dataset!) we can see which Pokémon is best for the input task prompt using their base stats and Pokémon descriptions. Here are some goals for our Poké-Job Recommendation System:
+Using data from the Pokédex (thanks GameFreak for the dataset!) we can see which Pokémon is best for the input task prompt using their base stats and Pokémon descriptions. Here are some goals for the P.I.K.A.C.H.U. project:
 - Recommend the best Pokémon battle matchups for an input Pokémon.
 
 - Categorize the input prompt into a task needing one of the 6 primary stats (HP, Attack, Defense, Special Attack, Special Defense, & Speed).
