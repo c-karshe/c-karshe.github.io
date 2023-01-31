@@ -13,4 +13,4 @@ Using data from the Pokédex (thanks GameFreak for the dataset!) we can see whic
 
 - Recognize keywords from Pokémon description that can make it well-suited for the input task. (ex: task input = taking care of injured patients. Chansey’s description: “This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.” In this case, Chansey would be one of the recommended Pokémon.)
 
-The goal output would be a list of 5 Pokémon that can be best suited for helping with the input task. With the Poké-Job Recommender System, various tasks can be solved in much more efficient and effective ways! 
+The goal output would be a list of 5 Pokémon that can be best suited for helping with the input task. With the P.I.K.A.C.H.U., various tasks can be solved in much more efficient and effective ways! 
